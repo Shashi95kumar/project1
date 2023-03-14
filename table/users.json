@@ -1,0 +1,31 @@
+[
+  {
+    "username":"rakshith",
+    "age":"25",
+    "gender":"male",
+    "occupation":" mern stack dev" ,
+    "salary":45000,
+    "phone":[8956553515, 15655458646,2545462222]
+
+  },
+
+  { 
+    "username":"raj",
+    "age":26,
+    "gender":"male",
+    "occupation" : "java stack dev" ,
+    "salary":"85000" ,
+    "phone":[8956553555, 1565545855, 2545462255]
+
+
+  },
+
+  {
+    "username":"priya",
+    "age":22,
+    "gender":"female",
+    "occupation" : " devops",
+    "salary":55000,
+    "phone":[8956553515, 15655458646,2545462222]
+  }
+]
