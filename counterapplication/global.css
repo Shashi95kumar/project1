@@ -1,0 +1,19 @@
+.mainblock{
+  color: blue;
+  margin-left: 250px;
+  padding-left: 10px;
+}
+.btngroup{
+  display: flex;
+}
+  
+
+button{
+  background-color: brown;
+  color: aqua;
+  width: 100px;
+  height: 30px;
+  font-size: medium;
+  
+
+}
